@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.jetbrains.com/zh-cn/idea/">
-    <img src="https://img.shields.io/badge/IDEA-Java-fd6430?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000">
+    <img src="https://img.shields.io/badge/IDEA-Java-ed272c?style=flat-square&logo=IntelliJ%20IDEA&labelColor=ffffff&logoColor=000000">
   </a>
   <a href="https://www.jetbrains.com/zh-cn/webstorm/">
     <img src="https://img.shields.io/badge/WebStorm-前端-07c3f2?style=flat-square&logo=WebStorm&labelColor=ffffff&logoColor=000000">
