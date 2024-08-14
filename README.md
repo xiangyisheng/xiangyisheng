@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/-TypeScript-2479bf?style=flat-square&logo=typescript&logoColor=white">
   </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/-TypeScript-2479bf?style=flat-square&logo=typescript&logoColor=white">
-  </a>
   <a href="https://cn.vuejs.org/">
     <img src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=white">
   </a>
