@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-TypeScript-2479bf?style=flat-square&logo=typescript&logoColor=white">
   </a>
   <a href="https://cn.vuejs.org/">
-    <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue&logoColor=white">
+    <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   </a>
   <a href="https://zh-hans.react.dev/">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
