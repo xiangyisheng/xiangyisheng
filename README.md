@@ -37,10 +37,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-TypeScript-2479bf?style=flat-square&logo=typescript&logoColor=white">
   </a>
   <a href="https://cn.vuejs.org/">
-    <img src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=vue&logoColor=white">
+    <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue&logoColor=white">
   </a>
   <a href="https://zh-hans.react.dev/">
-    <img src="https://img.shields.io/badge/-React-58c4dc?style=flat-square&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-MSSQL-81bc06?style=flat-square&logo=mssql&logoColor=white">
   </a>
   <a href="https://clickhouse.com/">
-    <img src="https://img.shields.io/badge/-ClickHouse-faff69?style=flat-square&logo=clickhouse&logoColor=white">
+    <img src="https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=white">
   </a>
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white">
