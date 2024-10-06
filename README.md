@@ -74,6 +74,9 @@ Here are some ideas to get you started:
   <a href="https://visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual%20Studio-VS%202022-7252AA?style=flat-square&logo=Visual%20Studio&labelColor=ffffff&logoColor=#7252AA">
   </a>
+  <a href="https://sqlserver.com/">
+    <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-SSMS-f7b300?style=flat-square&logo=SQL%20Server%20Management%20Studio&labelColor=ffffff&logoColor=#f7b300">
+  </a>
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VsCode-编辑器-007ACC?style=flat-square&logo=Visual%20Studio%20Code&labelColor=ffffff&logoColor=007ACC">
   </a>
